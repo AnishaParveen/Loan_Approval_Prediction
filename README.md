@@ -3,7 +3,7 @@
 This repository contains a dataset and code related to a loan approval system. The dataset includes information about loan applicants, such as loan ID, number of dependents, education level, employment status, income, loan amount, loan term, credit score (CIBIL score), and various asset values. The goal of the system is to predict whether a loan application should be approved or rejected based on these factors.
 
 Dataset
-The dataset (loan_data.csv) includes the following columns:
+The dataset (loan_approval_dataset.csv) includes the following columns:
 
 loan_id: Unique identifier for each loan application
 
